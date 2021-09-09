@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Atividade 3</string>
+    <string name="main_text">Acesse os botões para visualizar as informações:</string>
+    <string name="btn_comments">Comentários</string>
+    <string name="btn_posts">Posts</string>
+    <string name="btn_users">Usuários</string>
+    <string name="txt_view_title_users">Usuários</string>
+    <string name="txt_view_title_comments">Comentários</string>
+    <string name="txt_view_title_posts">Posts</string>
+</resources>
